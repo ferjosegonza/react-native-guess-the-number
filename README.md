@@ -20,7 +20,7 @@ La presente es una aplicación de juego simple con React Native llamado "Guess t
 
 2. **Iniciar el Proyecto**:
    ```bash
-   expo start
+   npx expo start
    ```
    Esto abrirá Expo Developer Tools en tu navegador. Puedes escanear el código QR con la aplicación Expo Go en tu teléfono para ver la aplicación en tu dispositivo.
 
