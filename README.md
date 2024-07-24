@@ -23,7 +23,9 @@ La presente es una aplicación de juego simple con React Native llamado "Guess t
    npx expo start
    ```
    Esto abrirá Expo Developer Tools en tu navegador. Puedes escanear el código QR con la aplicación Expo Go en tu teléfono para ver la aplicación en tu dispositivo.
-
+  
+  p/ ver cómo configurar para crear el sdk p/ Android:
+  https://blog.expo.dev/the-new-expo-cli-f4250d8e3421
 
 ### Paso 3: Desarrollar el Juego
 
